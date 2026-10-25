@@ -1,11 +1,15 @@
-# Paradise Nursery Shopping Application
+# e-plantShopping — Paradise Nursery Shopping Application
+
+**Project name:** e-plantShopping
+
+**Repository name:** e-plantShopping
 
 Paradise Nursery is a responsive houseplant shopping application built with React, Redux Toolkit, and Vite. Visitors can browse plants by category, add products to a cart, update quantities, remove items, and see cart totals update immediately.
 
 ## Project features
 
 - A full-screen landing page with a garden background, company name, company details, and a **Get Started** button.
-- Nine houseplants organized into three categories.
+- Eighteen unique houseplants organized into three categories, with six plants per category.
 - Product cards with an image, plant name, description, price, and **Add to Cart** button.
 - A dynamic cart badge that displays the total number of plants in the cart.
 - A Redux-powered shopping cart with increase, decrease, and delete controls.
