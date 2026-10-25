@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 700" role="img" aria-labelledby="title">
+  <title id="title">Golden Pothos illustration</title>
+  <defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#e6dfc7"/><stop offset="1" stop-color="#b2c7ad"/></linearGradient><linearGradient id="pot" y2="1"><stop stop-color="#f1c27f"/><stop offset="1" stop-color="#c88b56"/></linearGradient></defs>
+  <rect width="900" height="700" fill="url(#bg)"/>
+  <g fill="none" stroke="#477553" stroke-width="11" stroke-linecap="round"><path d="M450 262c-9 157-119 206-206 348M452 262c41 149 151 215 208 348M450 293c-8 147 7 228 5 345"/></g>
+  <g fill="#4c8257" stroke="#2f6445" stroke-width="4">
+    <path d="M317 357c-77-72-159-11-130 75 21 61 96 63 130 5 34 58 110 56 131-5 29-86-54-147-131-75Z" transform="scale(.55) translate(300 280)"/>
+    <path d="M317 357c-77-72-159-11-130 75 21 61 96 63 130 5 34 58 110 56 131-5 29-86-54-147-131-75Z" transform="scale(.6) translate(720 420)"/>
+    <path d="M317 357c-77-72-159-11-130 75 21 61 96 63 130 5 34 58 110 56 131-5 29-86-54-147-131-75Z" transform="scale(.52) translate(480 700)"/>
+    <path d="M317 357c-77-72-159-11-130 75 21 61 96 63 130 5 34 58 110 56 131-5 29-86-54-147-131-75Z" transform="scale(.49) translate(980 770)"/>
+    <path d="M317 357c-77-72-159-11-130 75 21 61 96 63 130 5 34 58 110 56 131-5 29-86-54-147-131-75Z" transform="scale(.46) translate(330 1000)"/>
+  </g>
+  <ellipse cx="450" cy="665" rx="260" ry="26" fill="#31513e" opacity=".17"/>
+  <path d="M287 111h326l-41 194H328Z" fill="url(#pot)"/>
+  <path d="M273 102h354v51H273Z" fill="#e2ac6c"/>
+</svg>

@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 700" role="img" aria-labelledby="title">
+  <title id="title">Rubber Plant illustration</title>
+  <defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#d9cfc1"/><stop offset="1" stop-color="#a8bca2"/></linearGradient><linearGradient id="leaf" x2="1" y2="1"><stop stop-color="#376f53"/><stop offset="1" stop-color="#173f33"/></linearGradient></defs>
+  <rect width="900" height="700" fill="url(#bg)"/>
+  <circle cx="190" cy="130" r="87" fill="#f1dfb8" opacity=".45"/>
+  <ellipse cx="460" cy="619" rx="240" ry="40" fill="#233c33" opacity=".17"/>
+  <g fill="none" stroke="#5f7558" stroke-width="15" stroke-linecap="round"><path d="M445 520V102M445 225l-119-67M447 290l130-73M445 367l-147-79M446 432l138-71"/></g>
+  <g fill="url(#leaf)" stroke="#7c9c76" stroke-width="4">
+    <ellipse cx="299" cy="142" rx="66" ry="132" transform="rotate(-55 299 142)"/>
+    <ellipse cx="596" cy="190" rx="69" ry="138" transform="rotate(52 596 190)"/>
+    <ellipse cx="274" cy="273" rx="71" ry="145" transform="rotate(-62 274 273)"/>
+    <ellipse cx="609" cy="345" rx="70" ry="142" transform="rotate(61 609 345)"/>
+    <ellipse cx="441" cy="103" rx="60" ry="118"/>
+  </g>
+  <path d="M303 488h294l-39 160H341Z" fill="#b96d50"/>
+  <path d="M286 481h328v51H286Z" rx="18" fill="#d28a68"/>
+</svg>

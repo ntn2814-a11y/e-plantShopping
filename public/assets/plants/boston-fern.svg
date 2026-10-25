@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 700" role="img" aria-labelledby="title">
+  <title id="title">Boston Fern illustration</title>
+  <defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#e7dfcc"/><stop offset="1" stop-color="#a8bca2"/></linearGradient><linearGradient id="pot" y2="1"><stop stop-color="#c7835f"/><stop offset="1" stop-color="#8e553f"/></linearGradient></defs>
+  <rect width="900" height="700" fill="url(#bg)"/>
+  <path d="M122 132h656" stroke="#f6edcf" stroke-width="2" opacity=".6"/>
+  <ellipse cx="450" cy="628" rx="250" ry="39" fill="#284739" opacity=".16"/>
+  <g fill="none" stroke="#356b4c" stroke-width="9" stroke-linecap="round"><path d="M447 500C387 308 268 192 119 139M449 500c3-223 3-357-29-449M452 502c75-200 182-322 325-382M441 505c-109-135-221-203-339-190M460 504c116-137 225-197 343-183"/></g>
+  <g fill="#55865b">
+    <ellipse cx="174" cy="158" rx="18" ry="62" transform="rotate(-67 174 158)"/><ellipse cx="232" cy="190" rx="18" ry="62" transform="rotate(-62 232 190)"/><ellipse cx="290" cy="232" rx="18" ry="62" transform="rotate(-54 290 232)"/><ellipse cx="343" cy="283" rx="18" ry="62" transform="rotate(-46 343 283)"/>
+    <ellipse cx="422" cy="96" rx="18" ry="64" transform="rotate(-8 422 96)"/><ellipse cx="433" cy="170" rx="18" ry="64" transform="rotate(-4 433 170)"/><ellipse cx="440" cy="247" rx="18" ry="64"/>
+    <ellipse cx="732" cy="144" rx="18" ry="62" transform="rotate(66 732 144)"/><ellipse cx="676" cy="180" rx="18" ry="62" transform="rotate(60 676 180)"/><ellipse cx="618" cy="224" rx="18" ry="62" transform="rotate(54 618 224)"/><ellipse cx="565" cy="276" rx="18" ry="62" transform="rotate(45 565 276)"/>
+    <ellipse cx="164" cy="315" rx="17" ry="58" transform="rotate(-77 164 315)"/><ellipse cx="234" cy="330" rx="17" ry="58" transform="rotate(-69 234 330)"/><ellipse cx="738" cy="323" rx="17" ry="58" transform="rotate(76 738 323)"/><ellipse cx="670" cy="338" rx="17" ry="58" transform="rotate(68 670 338)"/>
+  </g>
+  <path d="M285 483h330l-52 167H337Z" fill="url(#pot)"/>
+  <path d="M268 476h364v53H268Z" fill="#d99873"/>
+</svg>

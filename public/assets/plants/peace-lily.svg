@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 700" role="img" aria-labelledby="title">
+  <title id="title">Peace Lily illustration</title>
+  <defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#e0e5d7"/><stop offset="1" stop-color="#a7bfab"/></linearGradient><linearGradient id="pot"><stop stop-color="#ede6d3"/><stop offset="1" stop-color="#c5bca7"/></linearGradient></defs>
+  <rect width="900" height="700" fill="url(#bg)"/>
+  <path d="M167 133h566" stroke="#f7efd9" stroke-width="2" opacity=".55"/>
+  <ellipse cx="450" cy="620" rx="239" ry="38" fill="#244c3b" opacity=".15"/>
+  <g fill="#2e6e50" stroke="#23563f" stroke-width="5">
+    <ellipse cx="333" cy="350" rx="80" ry="175" transform="rotate(-37 333 350)"/>
+    <ellipse cx="438" cy="309" rx="78" ry="190" transform="rotate(-8 438 309)"/>
+    <ellipse cx="555" cy="362" rx="82" ry="178" transform="rotate(33 555 362)"/>
+    <ellipse cx="286" cy="445" rx="61" ry="140" transform="rotate(-54 286 445)"/>
+    <ellipse cx="602" cy="447" rx="62" ry="143" transform="rotate(52 602 447)"/>
+  </g>
+  <g stroke="#4b7b5c" stroke-width="9" fill="none"><path d="M450 500 406 186M467 503l104-261"/></g>
+  <g><path d="M407 203c-72-54-73-120-37-154 79 33 98 97 37 154Z" fill="#fff9e6"/><path d="m399 179-18-99" stroke="#d3b867" stroke-width="10" stroke-linecap="round"/><path d="M568 262c-62-50-58-108-24-139 68 32 80 90 24 139Z" fill="#f8f2dc"/><path d="m562 244-10-88" stroke="#d3b867" stroke-width="10" stroke-linecap="round"/></g>
+  <path d="M296 483h308l-45 166H341Z" fill="url(#pot)"/>
+  <path d="M280 478h340v48H280Z" rx="20" fill="#dad2be"/>
+</svg>

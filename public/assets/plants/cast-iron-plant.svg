@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 700" role="img" aria-labelledby="title">
+  <title id="title">Cast Iron Plant illustration</title>
+  <defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#ded8c8"/><stop offset="1" stop-color="#a4b49a"/></linearGradient><linearGradient id="leaf" x2="1" y2="1"><stop stop-color="#4e7a52"/><stop offset="1" stop-color="#244f3b"/></linearGradient></defs>
+  <rect width="900" height="700" fill="url(#bg)"/>
+  <circle cx="710" cy="138" r="92" fill="#f2dca9" opacity=".38"/>
+  <ellipse cx="450" cy="625" rx="248" ry="39" fill="#1c3c31" opacity=".15"/>
+  <g fill="url(#leaf)" stroke="#78926b" stroke-width="5">
+    <path d="M426 507C269 336 278 150 342 68c80 167 96 308 84 439Z"/>
+    <path d="M466 505C415 270 460 99 526 42c40 185 18 336-60 463Z"/>
+    <path d="M494 510c1-190 98-330 183-372-16 169-78 292-183 372Z"/>
+    <path d="M388 510c-93-141-204-205-283-191 59 135 151 197 283 191Z"/>
+    <path d="M506 512c88-139 188-213 273-205-51 140-143 207-273 205Z"/>
+  </g>
+  <g stroke="#a9b58a" stroke-width="4" opacity=".55"><path d="m342 73 84 432M526 47l-60 455M674 143 496 507M111 322l271 184M773 311 512 507"/></g>
+  <path d="M289 488h322l-52 162H341Z" fill="#c17a58"/>
+  <path d="M275 481h350v50H275Z" fill="#d79570"/>
+</svg>

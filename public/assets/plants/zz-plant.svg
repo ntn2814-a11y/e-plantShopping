@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 700" role="img" aria-labelledby="title">
+  <title id="title">ZZ Plant illustration</title>
+  <defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#dce5d5"/><stop offset="1" stop-color="#98b19d"/></linearGradient><linearGradient id="pot" y2="1"><stop stop-color="#5f786b"/><stop offset="1" stop-color="#314f45"/></linearGradient></defs>
+  <rect width="900" height="700" fill="url(#bg)"/>
+  <path d="M168 120h564" stroke="#fff8de" stroke-width="3" opacity=".5"/>
+  <ellipse cx="450" cy="626" rx="230" ry="39" fill="#254338" opacity=".16"/>
+  <g fill="none" stroke="#32654a" stroke-width="11" stroke-linecap="round"><path d="M425 507c-3-204-58-314-146-387M448 508c0-238 0-348 2-430M475 509c11-206 69-317 158-390M404 510c-37-144-99-218-164-251M494 510c43-144 101-214 168-249"/></g>
+  <g fill="#397a56" stroke="#23573f" stroke-width="3">
+    <ellipse cx="312" cy="156" rx="34" ry="76" transform="rotate(-48 312 156)"/><ellipse cx="341" cy="207" rx="34" ry="75" transform="rotate(-54 341 207)"/><ellipse cx="367" cy="270" rx="35" ry="74" transform="rotate(-62 367 270)"/>
+    <ellipse cx="450" cy="118" rx="38" ry="82"/><ellipse cx="450" cy="205" rx="39" ry="83"/><ellipse cx="450" cy="295" rx="40" ry="85"/>
+    <ellipse cx="591" cy="158" rx="34" ry="76" transform="rotate(49 591 158)"/><ellipse cx="560" cy="214" rx="34" ry="76" transform="rotate(54 560 214)"/><ellipse cx="533" cy="276" rx="35" ry="75" transform="rotate(62 533 276)"/>
+    <ellipse cx="275" cy="297" rx="31" ry="70" transform="rotate(-61 275 297)"/><ellipse cx="624" cy="300" rx="31" ry="70" transform="rotate(61 624 300)"/>
+  </g>
+  <path d="M306 490h288l-38 158H344Z" fill="url(#pot)"/>
+  <path d="M292 483h316v47H292Z" rx="15" fill="#789083"/>
+</svg>

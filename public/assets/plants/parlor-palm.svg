@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 700" role="img" aria-labelledby="title">
+  <title id="title">Parlor Palm illustration</title>
+  <defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#ddd7c5"/><stop offset="1" stop-color="#a2b9a3"/></linearGradient><linearGradient id="pot" y2="1"><stop stop-color="#e7ddd0"/><stop offset="1" stop-color="#b8a99a"/></linearGradient></defs>
+  <rect width="900" height="700" fill="url(#bg)"/>
+  <circle cx="175" cy="126" r="78" fill="#f4dfac" opacity=".45"/>
+  <ellipse cx="450" cy="630" rx="225" ry="37" fill="#23463a" opacity=".16"/>
+  <g fill="none" stroke="#3e7554" stroke-width="10" stroke-linecap="round"><path d="M446 518c9-194-46-335-176-434M453 518c-1-218 3-359 20-458M458 519c44-191 121-315 232-372M430 518c-48-150-126-235-239-287M470 519c73-141 143-218 237-247"/></g>
+  <g fill="#54855e" stroke="#32654a" stroke-width="3">
+    <ellipse cx="298" cy="122" rx="22" ry="76" transform="rotate(-52 298 122)"/><ellipse cx="343" cy="162" rx="21" ry="71" transform="rotate(-40 343 162)"/><ellipse cx="245" cy="94" rx="20" ry="69" transform="rotate(-67 245 94)"/>
+    <ellipse cx="475" cy="102" rx="22" ry="77" transform="rotate(7 475 102)"/><ellipse cx="473" cy="184" rx="22" ry="72" transform="rotate(-3 473 184)"/><ellipse cx="483" cy="264" rx="22" ry="70" transform="rotate(8 483 264)"/>
+    <ellipse cx="652" cy="171" rx="22" ry="76" transform="rotate(55 652 171)"/><ellipse cx="605" cy="211" rx="21" ry="71" transform="rotate(43 605 211)"/><ellipse cx="700" cy="146" rx="20" ry="68" transform="rotate(68 700 146)"/>
+    <ellipse cx="224" cy="244" rx="20" ry="69" transform="rotate(-65 224 244)"/><ellipse cx="681" cy="280" rx="20" ry="69" transform="rotate(66 681 280)"/>
+  </g>
+  <path d="M307 492h286l-39 157H346Z" fill="url(#pot)"/>
+  <path d="M292 484h316v48H292Z" fill="#eee6da"/>
+</svg>

@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 700" role="img" aria-labelledby="title">
+  <title id="title">Snake Plant illustration</title>
+  <defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#d9e0cb"/><stop offset="1" stop-color="#a9bea4"/></linearGradient><linearGradient id="pot" x2="0" y2="1"><stop stop-color="#d99972"/><stop offset="1" stop-color="#9e5f48"/></linearGradient></defs>
+  <rect width="900" height="700" fill="url(#bg)"/>
+  <circle cx="710" cy="118" r="74" fill="#f3e8c9" opacity=".65"/>
+  <ellipse cx="450" cy="613" rx="245" ry="42" fill="#315947" opacity=".18"/>
+  <g stroke="#d9dc79" stroke-width="12" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M390 500C305 345 314 183 370 78c53 161 56 305 20 422Z" fill="#326b50"/>
+    <path d="M446 503c-40-204 12-375 76-451 26 186 2 334-76 451Z" fill="#275c45"/>
+    <path d="M500 507c16-172 91-282 163-325-20 151-69 255-163 325Z" fill="#397657"/>
+    <path d="M352 510c-90-116-112-230-89-309 77 111 107 211 89 309Z" fill="#2a6048"/>
+  </g>
+  <path d="M297 493h306l-39 157H336Z" fill="url(#pot)"/>
+  <path d="M283 487c0-20 16-36 36-36h262c20 0 36 16 36 36v34H283Z" fill="#bc7657"/>
+</svg>

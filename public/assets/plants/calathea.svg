@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 700" role="img" aria-labelledby="title">
+  <title id="title">Calathea Orbifolia illustration</title>
+  <defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#e6e2d2"/><stop offset="1" stop-color="#b8c9b0"/></linearGradient><linearGradient id="leaf" x2="1" y2="1"><stop stop-color="#8faf83"/><stop offset="1" stop-color="#4e7856"/></linearGradient></defs>
+  <rect width="900" height="700" fill="url(#bg)"/>
+  <ellipse cx="450" cy="627" rx="243" ry="41" fill="#2c4d3d" opacity=".16"/>
+  <g fill="none" stroke="#5e7354" stroke-width="11"><path d="M450 505 328 171M449 505l112-347M444 507l-204-199M458 508l203-210M449 503l8-414"/></g>
+  <g fill="url(#leaf)" stroke="#355f45" stroke-width="5">
+    <ellipse cx="309" cy="169" rx="78" ry="151" transform="rotate(-24 309 169)"/>
+    <ellipse cx="575" cy="157" rx="79" ry="151" transform="rotate(23 575 157)"/>
+    <ellipse cx="227" cy="299" rx="72" ry="142" transform="rotate(-54 227 299)"/>
+    <ellipse cx="675" cy="290" rx="72" ry="143" transform="rotate(53 675 290)"/>
+    <ellipse cx="456" cy="116" rx="84" ry="158"/>
+  </g>
+  <g fill="none" stroke="#dbe4c7" stroke-width="10" opacity=".72"><path d="m278 47 63 244M537 35l63 244M111 230l229 135M559 358l232-136M456-17v262"/><path d="m289 100 51 4m-40 43 53 3m194-58 52 2m-42 44 53 3M166 254l30 43m10-63 27 45m458-50-31 42m72-20-32 43" stroke-width="6"/></g>
+  <path d="M304 485h292l-39 163H343Z" fill="#e0b274"/>
+  <path d="M289 477h322v51H289Z" fill="#efc487"/>
+</svg>
