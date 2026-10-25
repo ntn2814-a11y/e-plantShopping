@@ -74,6 +74,12 @@ h3 {
   min-height: 100vh;
   overflow: hidden;
   color: #fff;
+  background: var(--deep-forest);
+}
+
+.background-image {
+  position: absolute;
+  inset: 0;
   background-image:
     linear-gradient(100deg, rgba(6, 30, 24, 0.92) 0%, rgba(11, 44, 35, 0.76) 48%, rgba(11, 44, 35, 0.42) 100%),
     url('/assets/hero-nursery.svg');
@@ -93,13 +99,14 @@ h3 {
 
 .landing-overlay {
   position: absolute;
+  z-index: 1;
   inset: 0;
   background: linear-gradient(180deg, transparent 65%, rgba(2, 19, 15, 0.45));
 }
 
 .landing-shell {
   position: relative;
-  z-index: 1;
+  z-index: 2;
   display: grid;
   grid-template-columns: minmax(0, 1.1fr) minmax(360px, 0.7fr);
   gap: clamp(2.5rem, 7vw, 8rem);
@@ -181,7 +188,7 @@ h3 {
   background: #fff4d8;
 }
 
-.about-us {
+.about-us-container {
   position: relative;
   padding: clamp(2rem, 4vw, 3.5rem);
   color: var(--ink);
@@ -192,7 +199,7 @@ h3 {
   backdrop-filter: blur(12px);
 }
 
-.about-us::before {
+.about-us-container::before {
   position: absolute;
   top: -0.8rem;
   right: 2.2rem;
@@ -206,14 +213,14 @@ h3 {
   border-radius: 50%;
 }
 
-.about-us h2 {
+.about-us-container h2 {
   margin-bottom: 1.3rem;
   font-size: clamp(2rem, 3vw, 3rem);
   line-height: 1.08;
   letter-spacing: -0.035em;
 }
 
-.about-us > p:not(.eyebrow) {
+.about-us-container > p:not(.eyebrow) {
   margin-bottom: 1rem;
   color: #50645b;
   font-size: 0.96rem;
@@ -247,7 +254,7 @@ h3 {
 
 .landing-note {
   position: absolute;
-  z-index: 2;
+  z-index: 3;
   bottom: 24px;
   left: 50%;
   margin: 0;
@@ -289,6 +296,7 @@ h3 {
   background: transparent;
   border: 0;
   cursor: pointer;
+  text-decoration: none;
 }
 
 .brand-mark {
@@ -339,6 +347,7 @@ h3 {
   border: 0;
   border-radius: 999px;
   cursor: pointer;
+  text-decoration: none;
 }
 
 .nav-link {
@@ -410,7 +419,7 @@ h3 {
     font-size: clamp(4rem, 17vw, 7rem);
   }
 
-  .about-us {
+  .about-us-container {
     max-width: 620px;
   }
 }
@@ -449,7 +458,7 @@ h3 {
     font-size: 0.95rem;
   }
 
-  .about-us {
+  .about-us-container {
     padding: 2rem 1.4rem 2.35rem;
     border-radius: 1.25rem 1.25rem 3.5rem 1.25rem;
   }

@@ -133,7 +133,8 @@
   font-size: 0.82rem;
 }
 
-.remove-button {
+.remove-button,
+.cart-item-delete {
   padding: 0;
   color: #8b4a3b;
   font-size: 0.75rem;

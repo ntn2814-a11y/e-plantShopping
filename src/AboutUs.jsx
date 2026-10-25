@@ -1,6 +1,6 @@
 function AboutUs() {
   return (
-    <section className="about-us" aria-labelledby="about-heading">
+    <div className="about-us-container" aria-labelledby="about-heading">
       <p className="eyebrow">Rooted in thoughtful living</p>
       <h2 id="about-heading">A little more green, wherever you live.</h2>
       <p>
@@ -18,7 +18,7 @@ function AboutUs() {
         <li>Clear care guidance</li>
         <li>Planet-conscious packaging</li>
       </ul>
-    </section>
+    </div>
   );
 }
 

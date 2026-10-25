@@ -29,7 +29,7 @@
   line-height: 1.75;
 }
 
-.category-section + .category-section {
+.product-list + .product-list {
   margin-top: 6.5rem;
 }
 
@@ -203,7 +203,7 @@
     grid-template-columns: 1fr;
   }
 
-  .category-section + .category-section {
+  .product-list + .product-list {
     margin-top: 4.5rem;
   }
 
