@@ -58,7 +58,7 @@ function CartItem({ onContinueShopping }) {
   };
 
   const handleCheckout = () => {
-    window.alert('Coming Soon');
+    alert('Coming Soon');
   };
 
   const totalItems = cart.reduce(
@@ -126,7 +126,7 @@ function CartItem({ onContinueShopping }) {
                       onClick={() => handleDecrement(item)}
                       aria-label={`Decrease ${item.name} quantity`}
                     >
-                      −
+                      -
                     </button>
                     <span className="cart-item-quantity-value" aria-live="polite">
                       {item.quantity}
